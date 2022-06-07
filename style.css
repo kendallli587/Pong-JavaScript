@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+canvas {
+    border: 1px solid grey;
+    background: black;
+}
+
+button {
+    color: white;
+    background-color: black;
+}
+
+#playAgainBtn {
+    display: none;
+}
+
+#easy-btn {
+    background-color: salmon;
+}
